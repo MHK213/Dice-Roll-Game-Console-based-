@@ -24,9 +24,13 @@ Enter How Many Rounds 1 to 10 ?
 Round [1] begins:
 
 ____________Round [1] ____________
+
 Player rolled   : 4
+
 Computer rolled : 6
+
 Round Winner    : [Computer]
+
 __________________________________
 
 Press any key to go to Next Round...
@@ -34,9 +38,13 @@ Press any key to go to Next Round...
 Round [2] begins:
 
 ____________Round [2] ____________
+
 Player rolled   : 5
+
 Computer rolled : 2
+
 Round Winner    : [Player]
+
 __________________________________
 
 Press any key to go to Next Round...
