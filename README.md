@@ -19,43 +19,43 @@ Built using C++ (Without relying on َAI), and Visual Studio.
 ## Output Example
 
 Enter How Many Rounds 1 to 10 ? 
-3
+2
 
 Round [1] begins:
+
+____________Round [1] ____________
 Player rolled   : 4
 Computer rolled : 6
 Round Winner    : [Computer]
+__________________________________
 
 Press any key to go to Next Round...
 
-
 Round [2] begins:
+
+____________Round [2] ____________
 Player rolled   : 5
 Computer rolled : 2
 Round Winner    : [Player]
-
-Press any key to go to Next Round...
-
-Round [3] begins:
-Player rolled   : 3
-Computer rolled : 3
-Round Winner    : [No Winner]
+__________________________________
 
 Press any key to go to Next Round...
 
 __________________________________________________________
-
                      +++ Game Over +++
 __________________________________________________________
 
 _____________________ [Game Results] _____________________
-
 Game Rounds        : 3
+
 Player Won times   : 1
+
 Computer Won times : 1
+
 Draw times         : 1
+
 Final Winner       : No Winner
 __________________________________________________________
 
-
 Do you want to play again? Y/N? 
+
